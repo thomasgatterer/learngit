@@ -9,6 +9,9 @@ Tutorials:
 https://iis.uibk.ac.at/collab/git :
 Branches are used to maintain multiple releases simultaneously while developing new features in the trunk. As long as we will not generally have formal releases, there will be little or no need for branches.
 
+nette bunte Icon Übersicht mit en Tutorials:
+http://rypress.com/tutorials/git/index
+
 #/\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\ 
 # End  tg tg tg tg tg tg tg tg tg tg tg tg tg tg
 
